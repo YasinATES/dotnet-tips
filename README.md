@@ -1,4 +1,4 @@
-# .NET İpuçları ve Örnekler
+# .NET İpuçları
 
 Bu repo, .NET ekosistemi için kapsamlı bir Türkçe kaynak olarak hazırlanmıştır. Temel kavramlardan ileri seviye konulara kadar .NET dünyasının çeşitli yönlerini ele alan detaylı dökümanlar içerir.
 
