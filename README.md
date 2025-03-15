@@ -1,10 +1,10 @@
 # .NET İpuçları
 
-Bu repo, .NET ekosistemi için kapsamlı bir Türkçe kaynak olarak hazırlanmıştır. Temel kavramlardan ileri seviye konulara kadar .NET dünyasının çeşitli yönlerini ele alan detaylı dökümanlar içerir.
+Bu repo, .NET ekosistemi için kapsamlı bir yol haritası oluşturmak ve teknik mülakatlara hazırlık sürecini desteklemek amacıyla hazırlanmıştır. Temel kavramlardan ileri seviye konulara kadar .NET dünyasının çeşitli yönlerini ele alan detaylı dökümanlar içermektedir.
 
 ## 📚 Proje Hakkında
 
-Bu proje, .NET geliştiricileri için Türkçe kaynak eksikliğini gidermenin yanı sıra, temel amacı teknik mülakatlara hazırlık sağlamak ve kapsamlı bir .NET yol haritası sunmaktır. Şu anda ağırlıklı olarak backend odaklanılmış olup, gelecekte frontend teknolojileri, veritabanı sistemleri, DevOps pratikleri ve daha fazlasını kapsayacak şekilde genişletilmesi hedeflenmektedir.
+Proje şu anda ağırlıklı olarak backende odaklanılmış olup, gelecekte frontend teknolojileri, veritabanı sistemleri, DevOps pratikleri ve daha fazlasını kapsayacak şekilde genişletilmesi hedeflenmektedir.
 
 Dökümanlar, teorik bilgilerin yanı sıra pratik örnekler, kod parçacıkları ve gerçek dünya senaryoları içermektedir. Modern .NET sürümleriyle uyumlu olacak şekilde hazırlanan bu kaynaklar, sürekli güncellenerek geliştiricilerin ihtiyaçlarına cevap verecek niteliktedir.
 
